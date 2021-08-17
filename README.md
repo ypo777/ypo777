@@ -10,6 +10,17 @@
    - 🐦 **Twitter** [YPO_007](https://twitter.com/YPO_007)
    - 📨 **Mail** yanpaingoo008ypo@gmail.com
 
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypo777&theme=graywhite)
 [![Yan Paing Oo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ypo777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img algin="left" src="https://github-readme-stats.vercel.app/api?username=ypo777&show_icons=true" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypo777&layout=compact" />
+</a>
 
