@@ -21,6 +21,6 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypo777&layout=compact" />
+   <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypo777&hide=less,javascript,css,html&layout=compact" />
 </a>
 
