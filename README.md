@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Kaggle 30 days of ML.
+- 🔭 I’m currently working on Pandas and Numpy.
 - 🌱 I’m currently learning Machine Learning and Ansible. 
 - 👯 I’m looking to collaborate on ML related with Burmese Language.
 - 🤔 I’m looking for help with Math related with ML.
