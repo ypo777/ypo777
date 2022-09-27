@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Pandas and Numpy.
-- 🌱 I’m currently learning Machine Learning and Ansible. 
-- 👯 I’m looking to collaborate on ML related with Burmese Language.
-- 🤔 I’m looking for help with Math related for ML.
+- 🔭 I’m currently working on Jmeter and API Testing.
+- 🌱 I’m currently learning DevOps , Linux and Networking. 
+- 👯 I’m looking to collaborate on AWS, Micro Services.
+- 🤔 I’m looking for help with Networking and Storage for Linux.
 - 💬 Ask me about OOP and any tech related stuffs.
 - 📫 How to reach me:
 
