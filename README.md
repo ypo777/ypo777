@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Jmeter and API Testing.
-- 🌱 I’m currently learning DevOps , Linux and Networking. 
-- 👯 I’m looking to collaborate on AWS, Micro Services.
-- 🤔 I’m looking for help with Networking and Storage for Linux.
+- 🔭 I’m currently working on React,NextJS.
+- 🌱 I’m currently learning Full Stack Development.
+- 👯 I’m looking to collaborate on FrondEnd.
 - 💬 Ask me about OOP and any tech related stuffs.
 - 📫 How to reach me:
 
