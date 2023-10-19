@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React,NextJS.
 - 🌱 I’m currently learning Full Stack Development.
-- 👯 I’m looking to collaborate on FrondEnd.
+- 👯 I’m looking to collaborate on FrontEnd.
 - 💬 Ask me about OOP and any tech related stuffs.
 - 📫 How to reach me:
 
